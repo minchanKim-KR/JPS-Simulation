@@ -1,0 +1,20 @@
+#pragma once
+#define SET_WALL 1001
+#define SET_STARTPOINT 1002
+#define SET_ENDPOINT 1003
+#define G_EUCLID 1004
+#define G_MANHATTAN 1005
+#define H_EUCLID 1006
+#define H_MANHATTAN 1007
+#define EXECUTE 1008
+#define STOP 1009
+#define NEXT 1010
+#define FIND_DST 1011
+#define STOP_FIND_DST 1012
+
+#define RAND_WALL 1013
+#define SIMULATION 1014
+#define ERASE_WALLS 1015
+
+#define TIMER_FIND_DST 2000
+#define TIMER_SIMULATION 2001

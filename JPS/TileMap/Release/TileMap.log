@@ -1,0 +1,131 @@
+﻿  TileMap.cpp
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(77,71): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(79,14): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(84,61): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(86,14): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(105,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(106,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(107,68): warning C4244: '인수': 'double'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(107,53): warning C4244: '인수': 'double'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(127,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(128,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(130,42): warning C4244: '인수': 'double'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(130,31): warning C4244: '인수': 'double'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(141,25): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(141,22): warning C4244: '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(165,28): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(196,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(195,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(199,23): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(198,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(207,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(206,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(210,23): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(209,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(218,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(217,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(221,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(220,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(229,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(228,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(232,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(231,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(240,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(239,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(243,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(242,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(251,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(250,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(254,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(253,30): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(262,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(261,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(265,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(264,30): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(273,35): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(272,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(276,23): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(275,30): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(281,32): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(311,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(310,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(314,25): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(313,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(322,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(321,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(325,25): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(324,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(333,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(332,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(336,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(335,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(344,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(343,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(347,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(346,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(355,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(354,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(358,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(357,44): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(366,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(365,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(369,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(368,32): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(377,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(376,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(380,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(379,32): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(388,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(387,46): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(391,25): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(390,32): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(407,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(406,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(410,30): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(409,49): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(418,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(417,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(421,30): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(420,49): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(429,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(428,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(432,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(431,49): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(440,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(439,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(443,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(442,49): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(451,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(450,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(454,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(453,49): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(462,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(461,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(465,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(464,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(473,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(472,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(476,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(475,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(484,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(483,51): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(487,30): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(486,37): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(500,67): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(500,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(518,32): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(517,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(521,42): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(520,49): warning C4244: '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(863,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(864,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(891,28): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(892,28): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(925,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\JPS\TileMap\TileMap.cpp(926,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 417 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TileMap.vcxproj -> C:\Users\user\source\repos\JPS\Release\TileMap.exe
